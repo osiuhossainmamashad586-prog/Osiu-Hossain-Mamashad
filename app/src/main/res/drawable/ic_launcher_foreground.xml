@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Frame -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#34D399"
+        android:strokeWidth="2.5"
+        android:pathData="M54,23 L79,32 C79,53 69,73 54,83 C39,73 29,53 29,32 Z" />
+
+    <!-- Inner Shield Depth -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,28 L74,35 C74,51 65,68 54,77 C43,68 34,51 34,35 Z" />
+
+    <!-- Vault Safe Circular Rim -->
+    <path
+        android:fillColor="#10B981"
+        android:strokeColor="#6EE7B7"
+        android:strokeWidth="1.5"
+        android:pathData="M54,40 A14,14 0 1 0 54,68 A14,14 0 1 0 54,40 Z" />
+
+    <!-- Vault Inner Dial Plate -->
+    <path
+        android:fillColor="#042F2E"
+        android:pathData="M54,44 A10,10 0 1 0 54,64 A10,10 0 1 0 54,44 Z" />
+
+    <!-- Dial Tick Marks & Keyhole -->
+    <path
+        android:fillColor="#ECFDF5"
+        android:pathData="M52,49 A3,3 0 1 1 56,49 L55.5,58 L52.5,58 Z" />
+
+    <!-- Distinctive 'X' cipher corner accents -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M54,34 L55.5,37 L52.5,37 Z M54,70 L55.5,67 L52.5,67 Z M38,54 L41,55.5 L41,52.5 Z M70,54 L67,55.5 L67,52.5 Z" />
+</vector>

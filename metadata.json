@@ -1,0 +1,6 @@
+{
+  "name": "VAULTX",
+  "description": "Personal Secret Vault created by Mamashad Tech LTD - offline-first client-side encrypted vault for photos, videos, files, and credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
